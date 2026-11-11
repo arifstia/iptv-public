@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<epg>
+  <name>Indonesia XMLTV EPG</name>
+  <source>https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml</source>
+  <format>XMLTV</format>
+  <note>Source reference only. This file is not an XMLTV programme guide.</note>
+</epg>
