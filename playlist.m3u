@@ -144,13 +144,13 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="SPORTS",FIFA+ (English)
 https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
 
-#EXTINF:-1 tvg-id="auto.golf.channel" group-title="SPORTS",Golf Channel
+#EXTINF:-1 tvg-id="auto.golf.channel" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Golf_Channel_logo_2025.svg" group-title="SPORTS",Golf Channel
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 
-#EXTINF:-1 tvg-id="auto.africa24.sport" group-title="SPORTS",Africa24 Sport
+#EXTINF:-1 tvg-id="auto.africa24.sport" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="SPORTS",Africa24 Sport
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
-#EXTINF:-1 tvg-id="auto.dd.sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/DD_Sports_Logo.svg/960px-DD_Sports_Logo.svg.png" group-title="SPORTS",DD Sports
+#EXTINF:-1 tvg-id="auto.dd.sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png" group-title="SPORTS",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="SPORTS",FOX Sports (1080p)
@@ -225,7 +225,6 @@ https://pixeldrain.com/api/file/ezqDwxkK?download
 #EXTINF:-1 tvg-id="auto.hamka.siti.raham.vol.2" group-title="VOD INDO",Hamka & Siti Raham Vol. 2
 https://pixeldrain.com/api/file/ZQVckcfF?download
 # "https://pixeldrain.com/api/file/JKM91MwQ?download
-# "
 
 #EXTINF:-1 tvg-id="auto.layangan.putus.the.movie" group-title="VOD INDO",Layangan Putus: The Movie
 https://pixeldrain.com/api/file/6fwxFxx9?download
@@ -287,7 +286,6 @@ https://pixeldrain.com/api/file/dwi7mgXX?download
 #EXTINF:-1 tvg-id="auto.titip.surat.untuk.tuhan" group-title="VOD INDO",Titip Surat Untuk Tuhan
 https://pixeldrain.com/api/file/845PJ3Gb?download
 # "https://pixeldrain.com/api/file/74gipWbg?download
-# "
 
 #EXTINF:-1 tvg-id="auto.kisah.tanah.jawa.pocong.gundul" group-title="VOD INDO",Kisah Tanah Jawa: Pocong Gundul
 https://pixeldrain.com/api/file/xTZuUgAW?download
@@ -298,7 +296,6 @@ https://pixeldrain.com/api/file/smj56rTF?download
 #EXTINF:-1 tvg-id="auto.losmen.melati" group-title="VOD INDO",Losmen Melati
 https://pixeldrain.com/api/file/zBP5ULUD?download
 # "https://pixeldrain.com/api/file/zBP5ULUD?download
-# "
 
 #EXTINF:-1 tvg-id="auto.malam.para.jahanam" group-title="VOD INDO",Malam Para Jahanam
 https://pixeldrain.com/api/file/a9Y8CEgx?download
@@ -309,7 +306,6 @@ https://pixeldrain.com/api/file/kzy3h67F?download
 #EXTINF:-1 tvg-id="auto.saranjana.kota.ghaib" group-title="VOD INDO",Saranjana: Kota Ghaib
 https://pixeldrain.com/api/file/vUGDTTXc?download
 # "https://pixeldrain.com/api/file/RAo1H7gc?download
-# "
 
 #EXTINF:-1 tvg-id="auto.siksa.neraka" group-title="VOD INDO",Siksa Neraka
 https://pixeldrain.com/api/file/Ya2YKE7h?download
