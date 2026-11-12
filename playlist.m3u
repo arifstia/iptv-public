@@ -182,6 +182,15 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
 
 # ======kids channels========
 
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mentari.png" group-title="Kids Channel",Mentari TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://iptv.urfan.web.id/logo/mykidz.png" group-title="Kids Channel",My Kidz
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+
+#EXTINF:-1 tvg-id="aniplus.id" tvg-logo="https://iptv.urfan.web.id/logo/aniplus.png" group-title="Kids Channel",ANIPLUS
+http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
+
 #EXTINF:-1 cuid="163" tvg-name="Ducktv" tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-31_20-39-34-411.png" group-logo="" group-title="Kids Channel",Duck tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
 
