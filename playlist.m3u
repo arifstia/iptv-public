@@ -121,14 +121,14 @@ https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/
 #EXTGRP:SPORTS
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e1/MotoGP_logo_%282024%29.svg.png/500px-MotoGP_logo_%282024%29.svg.png",MotoGP
-#EXTGRP:SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-
-#EXTINF:-1 tvg-id="auto.bein.sports.eng.1.720p" group-title="SPORTS",beIN Sports ENG 1 (720p)
+#EXTINF:-1 tvg-id="auto.bein.sports.eng.1.720p" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="SPORTS",beIN Sports ENG 1 (720p)
 https://bein-xtra-bein.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="SPORTS",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="SPORTS",beIN Sports XTRA en Espanol (1080p)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
 #EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -141,6 +141,9 @@ https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playl
 #EXTVLCOPT:network-caching=1000
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="SPORTS",FIFA+ (English)
+https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
+
 #EXTINF:-1 tvg-id="auto.golf.channel" group-title="SPORTS",Golf Channel
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 
@@ -152,15 +155,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 #EXTINF:-1 tvg-id="FoxSports.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="SPORTS",FOX Sports (1080p)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-
-#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="SPORTS",FIFA+ (English)
-https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
-
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="SPORTS",beIN SPORTS XTRA (1080p)
-https://bein-xtra-bein.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="SPORTS",beIN Sports XTRA en Espanol (1080p)
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
 #<======== RELIGION ============>
 
