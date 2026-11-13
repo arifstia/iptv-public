@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="EBSFamily.kr" tvg-name="EBS Korea Family" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EBS_Logo.svg/512px-EBS_Logo.svg.png" group-title="Kids",EBS Korea Family
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mentari.png" group-title="Kids Channel",Mentari TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://iptv.urfan.web.id/logo/mykidz.png" group-title="Kids Channel",My Kidz
