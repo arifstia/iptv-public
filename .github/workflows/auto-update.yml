@@ -1,0 +1,55 @@
+
+name: Auto Update IPTV Playlists
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "playlist.m3u"
+      - "update-script/**"
+      - ".github/workflows/auto-update.yml"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-playlists:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Split playlists
+        run: python update-script/split_playlist.py
+
+      - name: Create OTT playlist
+        run: python update-script/create_ott.py
+
+      - name: Validate playlists
+        run: python update-script/validate_playlist.py
+
+      - name: Commit generated playlists
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add playlist-ott.m3u playlists/
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto update IPTV playlists"
+            git push
+          else
+            echo "Tidak ada perubahan playlist"
+          fi
+          
