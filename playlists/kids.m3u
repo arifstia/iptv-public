@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mentari.png" group-title="Kids Channel",Mentari TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://iptv.urfan.web.id/logo/mykidz.png" group-title="Kids Channel",My Kidz
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+#EXTINF:-1 tvg-id="aniplus.id" tvg-logo="https://iptv.urfan.web.id/logo/aniplus.png" group-title="Kids Channel",ANIPLUS
+http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
+#EXTINF:-1 cuid="163" tvg-name="Ducktv" tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-31_20-39-34-411.png" group-logo="" group-title="Kids Channel",Duck tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_49.png" tvg-id="Nickelodeon.id",Nickelodeon (Maxstream)
+#EXTGRP:Kids Channel
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
+#EXTINF:-1 tvg-id="auto.baby.shark.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSk5u8qnZekBJlt1mpK1p4WqtmDfhTyPfABfWm7cN1BQ&s=10",Baby Shark TV
+#EXTGRP:Kids Channel
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Moonbug" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug Kids
+#EXTGRP:Kids Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+# ======PENGETAHUAN=========

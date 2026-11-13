@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 xui-id="25686" tvg-id="indosiar.manual" tvg-name="Indosiar (Sport)" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfqTlcmsje4pR2tiFs4ilZsc28qsONFbRS-n_VNTo1EOdf4iGnKWT_K7euFuwx5lB8IsOtuvl6Ad8E_3BeN4G4JQ.jpg" group-title="Indonesia Channels",Indosiar HD
+http://goldenid.online:80/play/mFh6NN-BWzl886PdFhupP3lifqJJpPDjYbWB9PJMdrk
+#EXTINF:-1 xui-id="25666" tvg-id="mnctv.manual" tvg-name="MNC TV" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfpxbqfVVWzCoJdkMxqtIrpXwD1h55ebTGKMBexQBA1UWYIluFr3X0z0chzt85T0WUrL7bu1rNU5TgCEAGdnVwuH.jpg" group-title="Indonesia Channels",MNCTV HD
+http://goldenid.online:80/play/mFh6NN-BWzl886PdFhupP_c3NTwVOD5OMM808jrglQg
+#EXTINF:-1 xui-id="25667" tvg-id="zeetamil" tvg-name="GTV" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfr976KrlReMGVxaUgOIzxlufyib5y-r5RaxUfOViouzcC3Vwg3XjykhwOUx_iU9-NPauuZlaSzG17oE9cROjfux.jpg" group-title="Indonesia Channels",GTV
+http://goldenid.online:80/play/mFh6NN-BWzl886PdFhupP-8tIhYPX-yuxMU0TYrwMUE
+#EXTINF:-1 xui-id="25665" tvg-id="rcti.manual" tvg-name="RCTI (Sport)" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfruPGdPfgXb-9LxirlkpxTim1gTfxrMKdaTAnIYFNqC2m3JhVYwYgDO-vO0An5zc-pgFeXaBaig27-B81zNY92A.jpg" group-title="Indonesia Channels",RCTI HD
+http://goldenid.online:80/play/mFh6NN-BWzl886PdFhupP4Ery4yNvrfiz22eAyCzIpQ
+#EXTINF:-1 xui-id="25688" tvg-id="sctv.manual" tvg-name="SCTV (Sport)" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfpidL9oXotpd8wdXfDYnKDdFmiXYde5ofr9-qxlTgzX1hvscvwH_T7L7WoRn8v2KBkRq0hI6Ghm3ublRF7honk6.jpg" group-title="Indonesia Channels",SCTV HD
+http://goldenid.online:80/play/mFh6NN-BWzl886PdFhupP1uDaIPEIBer5dNYo8p1e3o
+#EXTINF:-1 xui-id="25718" tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfp_i0tmjPj3VrKalqMpx_bGRBqfuATCN3B1T9XX2I4xrbTampDPlTN2-c_YwWGxtOfFDKT8hWeT4wZxC8DIwXdf.jpg" group-title="Indonesia Channels",ANTV
+http://goldenid.online:80/play/mFh6NN-BWzl886PdFhupP2Z1ONgY0fdWgx0iWi1nrho
+#EXTINF:-1 xui-id="25668" tvg-id="raniahd" tvg-name="i News" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfpPc2FifcvHVAyIT4-BMw-2SaXj_8hS8tDGuxHjj7lFdz5BSxIBtYCbffd4498A-BEXFo3HH5w9ZbU6hBE4H4mH.jpg" group-title="Indonesia Channels",i News
+http://goldenid.online:80/play/mFh6NN-BWzl886PdFhupPygrH0nLi4FBbYfvT_ut5Ak
+#EXTINF:-1 tvg-id="indosiar.biz.manual" tvg-name="Indosiar" tvg-logo="https://www.indosiar.com/assets/favicon.png",Indosiar (Biz)
+#EXTGRP:Indonesia Channels
+https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnsM5HwvOUP-b6zZddY2tfdY
+#EXTINF:-1 tvg-id="metrotv.manual" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="Indonesia Channels",MetroTV HD
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dens.tv/|referrer=https://www.dens.tv/|Origin=https://www.dens.tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206|user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206"}
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png",TransTV (Transmedia)
+#EXTGRP:Indonesia Channels
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
+https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-t7.png",Trans7 (Transmedia)
+#EXTGRP:Indonesia Channels
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
+https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://object-streamo.emonaja.com/img/moji.png", MOJI
+#EXTGRP:Indonesia Channels
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvriworld.png?raw=true" group-title="Indonesia Channels",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI NASIONAL
+#EXTGRP:Indonesia Channels
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.png", MDTV NET
+#EXTGRP:Indonesia Channels
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/rtv.png",Rajawali TV
+#EXTGRP:Kids Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
