@@ -163,6 +163,9 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1 tvg-id="FoxSports.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="SPORTS",FOX Sports (1080p)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 
+#EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-name="Real Madrid TV English" tvg-country="ES" tvg-language="English" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="SPORTS" x-tier="community" x-status="verified" x-quality="sd",Real Madrid TV English
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
 #<======== RELIGION ============>
 
 #EXTINF:-1 tvg-id="MQTV.id" tvg-name="MQTV" tvg-logo="https://www.mqtv.co.id/wp-content/uploads/2024/06/Logo_MQTV_Original-768x194.webp",MQTV
