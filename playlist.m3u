@@ -128,6 +128,9 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTGRP:SPORTS
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-name="beIN Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="SPORTS" x-tier="community" x-status="verified",beIN Sports USA
+https://tvsen6.aynaott.com/beinsports/index.m3u8
+
 #EXTINF:-1 tvg-id="auto.bein.sports.eng.1.720p" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="SPORTS",beIN Sports ENG 1 (720p)
 https://bein-xtra-bein.amagi.tv/playlistR720P.m3u8
 
@@ -168,6 +171,9 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 
 #EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-name="Real Madrid TV English" tvg-country="ES" tvg-language="English" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="SPORTS" x-tier="community" x-status="verified" x-quality="sd",Real Madrid TV English
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="KozoomTV.fr@SD" tvg-name="Kozoom TV" tvg-country="FR" tvg-language="French;English" tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="France" x-tier="community" x-status="verified" x-quality="1080p",Kozoom TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
 
 #<======== RELIGION ============>
 
