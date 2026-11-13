@@ -37,6 +37,16 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="KozoomTV.fr@SD" tvg-name="Kozoom TV" tvg-country="FR" tvg-language="French;English" tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="SPORTS" x-tier="community" x-status="verified" x-quality="1080p",Kozoom TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+#EXTINF:-1 tvg-id="AmericanNinjaWarrior.us@SD" tvg-name="American Ninja Warrior" tvg-country="US" tvg-language="English" tvg-logo="https://www.realityblurred.com/realitytv/images/2022/06/american-ninja-warrior-logo.jpg" group-title="SPORTS",American Ninja Warrior
+https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="DWEnglish" tvg-name="DW English" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Deutsche_Welle_Logo.svg" group-title="SPORTS",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="DWSpanish" tvg-name="DW Español" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Deutsche_Welle_Logo.svg" group-title="SPORTS",DW Español (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="CNASingapore" tvg-name="CNA Singapore" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/CNA_logo.svg" group-title="SPORTS",CNA Singapore (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#<======== RELIGION ============>
 #EXTINF:-1 tvg-logo="https://www.wired2fish.com/wp-content/uploads/2024/10/logo-wired2fish.png",Wired 2 Fish
 #EXTGRP:PENGETAHUAN
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
